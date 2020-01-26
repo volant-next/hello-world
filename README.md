@@ -1,2 +1,3 @@
 # hello-world
-this is my first GitHub repository: hello-world
+this is my first GitHub repository: hello-world.
+modify README.md, hahaha...
